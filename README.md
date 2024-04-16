@@ -1,4 +1,4 @@
-# Tableau de bord Interactif - Powerliftnig
+# Tableau de bord Interactif - Powerlifting
 
 ## Fichiers du Projet ("User Guide")
 
